@@ -1,0 +1,5 @@
+return {
+  board = "esp8266:esp8266:d1_mini_clone",
+  port = "/dev/ttyUSB0",
+  baudrate = "115200",
+}
